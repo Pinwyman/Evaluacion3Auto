@@ -25,6 +25,16 @@
             <version>10.0.0</version>
             <type>jar</type>
         </dependency>
+              <dependency>
+        <groupId>org.openjfx</groupId>
+        <artifactId>javafx-controls</artifactId>
+        <version>20</version>
+    </dependency>
+    <dependency>
+        <groupId>org.openjfx</groupId>
+        <artifactId>javafx-fxml</artifactId>
+        <version>20</version>
+    </dependency>
 
         <!-- Dependencia de base MySQL -->
         <dependency>
